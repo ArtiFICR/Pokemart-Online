@@ -81,31 +81,31 @@ const SHOP_DATA = [
             {
                 id: 11,
                 name: 'Oran Berry',
-                imageUrl: 'https://i.ibb.co/XzcwL5s/black-shearling.png',
+                imageUrl: 'https://gamewith-en.akamaized.net/article/thumbnail/rectangle/13954.png',
                 price: 50
             },
             {
                 id: 12,
                 name: 'Rawst Berry',
-                imageUrl: 'https://i.ibb.co/mJS6vz0/blue-jean-jacket.png',
+                imageUrl: 'https://gamewith-en.akamaized.net/article/thumbnail/rectangle/13949.png',
                 price: 70
             },
             {
                 id: 13,
                 name: 'Chesto Berry',
-                imageUrl: 'https://i.ibb.co/N71k1ML/grey-jean-jacket.png',
+                imageUrl: 'https://gamewith-en.akamaized.net/article/thumbnail/rectangle/13946.png',
                 price: 70
             },
             {
                 id: 14,
                 name: 'Pecha Berry',
-                imageUrl: 'https://i.ibb.co/s96FpdP/brown-shearling.png',
+                imageUrl: 'https://gamewith-en.akamaized.net/article/thumbnail/rectangle/13948.png',
                 price: 70
             },
             {
                 id: 15,
                 name: 'Cheri Berry',
-                imageUrl: 'https://i.ibb.co/M6hHc3F/brown-trench.png',
+                imageUrl: 'https://gamewith-en.akamaized.net/article/thumbnail/rectangle/13944.png',
                 price: 100
             }
         ]
@@ -118,43 +118,37 @@ const SHOP_DATA = [
             {
                 id: 16,
                 name: 'Antidote',
-                imageUrl: 'https://i.ibb.co/7CQVJNm/blue-tank.png',
+                imageUrl: 'https://static.wikia.nocookie.net/ethereal-gates/images/7/7a/Antidote_Art.png/revision/latest/scale-to-width-down/165?cb=20161126184527',
                 price: 200
             },
             {
                 id: 17,
                 name: 'Burn Heal',
-                imageUrl: 'https://i.ibb.co/4W2DGKm/floral-blouse.png',
+                imageUrl: 'https://static.wikia.nocookie.net/ethereal-gates/images/b/b2/Burn_Heal_Art.png/revision/latest/scale-to-width-down/165?cb=20161128044909',
                 price: 300
             },
             {
                 id: 18,
                 name: 'Ice Heal',
-                imageUrl: 'https://i.ibb.co/KV18Ysr/floral-skirt.png',
+                imageUrl: 'https://static.wikia.nocookie.net/ethereal-gates/images/6/61/Ice_Heal_Art.png/revision/latest/scale-to-width-down/165?cb=20161128150650',
                 price: 100
             },
             {
                 id: 19,
                 name: 'Paralyze Heal',
-                imageUrl: 'https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png',
+                imageUrl: 'https://static.wikia.nocookie.net/ethereal-gates/images/a/a4/Paralyze_Heal_Art.png/revision/latest/scale-to-width-down/165?cb=20161126205910',
                 price: 300
             },
             {
                 id: 20,
                 name: 'Awakening',
-                imageUrl: 'https://i.ibb.co/KmSkMbH/striped-sweater.png',
+                imageUrl: 'https://static.wikia.nocookie.net/ethereal-gates/images/8/87/Awakening_Art.png/revision/latest/scale-to-width-down/165?cb=20161127031258',
                 price: 100
             },
             {
                 id: 21,
-                name: 'Full Heal',
-                imageUrl: 'https://i.ibb.co/v1cvwNf/yellow-track-suit.png',
-                price: 400
-            },
-            {
-                id: 22,
                 name: 'Revive',
-                imageUrl: 'https://i.ibb.co/qBcrsJg/white-vest.png',
+                imageUrl: 'https://cdn2.bulbagarden.net/upload/thumb/6/62/GO_Revive.png/200px-GO_Revive.png',
                 price: 2000
             }
         ]
@@ -165,39 +159,39 @@ const SHOP_DATA = [
         routeName: 'pokestones',
         items: [
             {
-                id: 23,
+                id: 22,
                 name: 'Thunder Stone',
-                imageUrl: 'https://i.ibb.co/xJS0T3Y/camo-vest.png',
+                imageUrl: 'https://static.wikia.nocookie.net/pokemon/images/8/87/Thunder_Stone_anime.png/revision/latest/scale-to-width-down/1000?cb=20140603003050',
+                price: 1000
+            },
+            {
+                id: 23,
+                name: 'Water Stone',
+                imageUrl: 'https://static.wikia.nocookie.net/pokemon/images/b/ba/Water_Stone_anime.png/revision/latest/scale-to-width-down/1000?cb=20140603003034',
                 price: 1000
             },
             {
                 id: 24,
-                name: 'Water Stone',
-                imageUrl: 'https://i.ibb.co/qMQ75QZ/floral-shirt.png',
+                name: 'Fire Stone',
+                imageUrl: 'https://static.wikia.nocookie.net/pokemon/images/d/d1/Fire_Stone_anime.png/revision/latest/scale-to-width-down/1000?cb=20140603003024',
                 price: 1000
             },
             {
                 id: 25,
-                name: 'Fire Stone',
-                imageUrl: 'https://i.ibb.co/55z32tw/long-sleeve.png',
+                name: 'Leaf Stone',
+                imageUrl: 'https://static.wikia.nocookie.net/pokemon/images/b/bb/Leaf_Stone_anime.png/revision/latest/scale-to-width-down/1000?cb=20140603003108',
                 price: 1000
             },
             {
                 id: 26,
-                name: 'Leaf Stone',
-                imageUrl: 'https://i.ibb.co/RvwnBL8/pink-shirt.png',
-                price: 1000
-            },
-            {
-                id: 27,
                 name: 'Sun Stone',
-                imageUrl: 'https://i.ibb.co/VpW4x5t/roll-up-jean-shirt.png',
+                imageUrl: 'https://static.wikia.nocookie.net/pokemon/images/3/3f/Sun_Stone_anime.png/revision/latest/scale-to-width-down/1000?cb=20140603003247',
                 price: 1500
             },
             {
-                id: 28,
+                id: 27,
                 name: 'Moon Stone',
-                imageUrl: 'https://i.ibb.co/mh3VM1f/polka-dot-shirt.png',
+                imageUrl: 'https://static.wikia.nocookie.net/pokemon/images/7/7e/Moon_Stone_anime.png/revision/latest/scale-to-width-down/1000?cb=20140603003134',
                 price: 1500
             }
         ]
