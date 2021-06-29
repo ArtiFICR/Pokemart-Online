@@ -3,7 +3,7 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-    apiKey: "AIzaSyB1u-kii6V28RwcqMc3U_pTBUNT0PXjkbs",
+    apiKey: "YOUR_API_KEY",
     authDomain: "pokemart-db-105ea.firebaseapp.com",
     projectId: "pokemart-db-105ea",
     storageBucket: "pokemart-db-105ea.appspot.com",
